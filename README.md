@@ -6,3 +6,5 @@ Para o desenvolvimento deste projeto, foram utilizados conceitos de MVC (Model, 
 (Esta calculadora possui um "easter egg": clicando duas vezes no botão AC, é habilitado um som ao clicar nos botões. Para desabilitar esse som, basta clicar duas vezes no botão AC novamente).
 <hr>
 <img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Calculadora%20Hcode.png">
+
+<p align="center">Acesse a aplicação diretamente clicando <a href="https://gabriellima5.github.io/calculadora-hcode/">aqui</a>.</p>
